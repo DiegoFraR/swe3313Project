@@ -1,4 +1,4 @@
-# swe313Project
+# swe3313Project
 Introduction to Software Engineering Project Fall 2023 - SWE 3313
 
 Welcome to Team 4's Project Repository! This is the location of all artifacts, presentations, documentation, and source code for our SWE3313 Project
