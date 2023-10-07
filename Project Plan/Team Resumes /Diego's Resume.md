@@ -20,7 +20,9 @@ Motivated software engineering student from Kennesaw State University with 2 yea
 ##### McEachern High School
 ###### July 2017 - May 2021
 ###### GPA: 4.1 
-
+* National Honor Society Member
+* Honor Roll
+* Graduated top 10$ of class of 500+ students
 
 ## Work Experience
 ### Freelance Software Engineer
