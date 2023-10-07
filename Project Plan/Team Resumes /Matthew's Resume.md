@@ -24,3 +24,22 @@ Determined Computer Science Student at Kennesaw State University with 1 1/2 year
 * Graduated in top 10% of class of 500+
 * Graduated with the Lamp of Knowledge Award
 * Recieved AutoCAD Proficiency Certificate - 2021
+
+## Work Experience
+### Freelance Software Engineer / Computer Science
+###### May 2021 - Present
+* Created small, various programs such as clocks, calculators, FSA machines, word games, and miniature databases for student records upon request
+* Working with AWS and finishing Cloud Practitioner Service
+
+## Skills
+* Project Leading
+* Team Management
+* Working in groups
+* AutoCAD
+* AutoCAD Inventor
+* Java
+* C#
+
+  
+
+
