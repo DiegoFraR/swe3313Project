@@ -6,7 +6,7 @@ Welcome to Team 4's Project Repository! This is the location of all artifacts, p
 We will create a e-commerce website which uses Java and Grails, along with JSON to sell our very own unique rocket-ships.
 
 # Meet Our Team
--Diego's Resume:
--Matthew's Resume:
--David's Resume:
--Eunsu's Resume:
+-Diego's Resume: \
+-Matthew's Resume: \
+-David's Resume: \
+-Eunsu's Resume: \
