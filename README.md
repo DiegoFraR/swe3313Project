@@ -15,6 +15,8 @@ We will create a e-commerce website which uses Java and Grails, along with JSON 
 ## Technology Selection
 
 
-## __[Project Plan](https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-13)__
+## Project Plan
+* __[Project Plan](https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-13)__ - YouTrack
+
 
 ## Project Plan Video Presentation
