@@ -19,3 +19,10 @@ outside of class. This way, all of our group members know how the storage option
 ## Operating Environment
 ### Windows, MacOS, Linux, Etc. 
 Since we are developing a web-based solution, our application will work in any operating environment. 
+
+## Other Software
+### YouTrack
+We will be using YouTrack to organize and plan our project out. This way, we know what needs to be worked on and how urgent aspects of our project are. 
+### Marvel
+We will use Marvel to design the UI of our application. Marvel provides us with lots of flexibility, basic design, and has a quick learning curve for new users. 
+* __[Marvel](https://www.trustradius.com/products/marvel/reviews?qs=pros-and-cons)__
