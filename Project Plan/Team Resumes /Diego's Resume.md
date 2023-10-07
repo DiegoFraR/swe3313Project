@@ -2,7 +2,7 @@ Diego Frausto Ramirez\
 Software Engineer Intern \
 dfraust4@students.kennesaw.edu \
 __[Portfolio](https://github.com/DiegoFraR)__ - GitHub Portfolio  
-__[Personal Webpage](https://diegofrar.github.io/Website/Home.html)__ - GitHub Pages
+__[Personal Webpage](https://diegofrar.github.io/Website/Home.html)__ - GitHub Pages \
 __[LinkedIn](https://www.linkedin.com/in/diego-frausto-ramirez-9921ba27a/)__ 
 
 ## Mission Statement
