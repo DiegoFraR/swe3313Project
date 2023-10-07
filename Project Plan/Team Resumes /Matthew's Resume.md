@@ -1,7 +1,7 @@
 Matthew Thomas Elledge\
 Computer Science Student and Intern \
 __[Github](https://github.com/mthyuu)__ - GitHub Homepage\
-__[Personal Webpage](https://matthewelledge.weebly.com/)__ - Past Engineering Work
+__[Personal Webpage](https://matthewelledge.weebly.com/)__ - Past HS Engineering Work
 
 ## Mission Statement
 Determined Computer Science Student at Kennesaw State University with 1 1/2 years experience in programming. Experience and fluency in the use of Java and C#, AutoCad, AutoCad Inventor, and project organization to expand upon in the future.
@@ -21,7 +21,7 @@ Determined Computer Science Student at Kennesaw State University with 1 1/2 year
 ##### Etowah High School 
 ###### August 2018 - May 2022
 ###### GPA: 4.3
-* Graduated in top 10% of class of 500+
+* Graduated in top 10% of class of 500+ students
 * Graduated with the Lamp of Knowledge Award
 * Recieved AutoCAD Proficiency Certificate - 2021
 
