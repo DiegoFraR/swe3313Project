@@ -16,7 +16,7 @@ We will create a e-commerce website which uses Java and Grails, along with JSON 
 * Eunsu's Responsibilites:
 * David's Responsibilities: 
 ## Technology Selection
-
+* __[Technology Description](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Technology%20Description.md)__
 
 ## Project Plan
 * __[Project Plan](https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-13)__ - YouTrack
