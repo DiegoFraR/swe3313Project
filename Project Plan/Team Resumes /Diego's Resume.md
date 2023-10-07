@@ -3,6 +3,7 @@ Software Engineer Intern \
 dfraust4@students.kennesaw.edu \
 __[Portfolio](https://github.com/DiegoFraR)__ - GitHub Portfolio  
 __[Personal Webpage](https://diegofrar.github.io/Website/Home.html)__ - GitHub Pages
+__[LinkedIn](https://www.linkedin.com/in/diego-frausto-ramirez-9921ba27a/)__ 
 
 ## Mission Statement
 Motivated software engineering student from Kennesaw State University with 2 years of coding experience. Seeking to use my proven skills in Java, C#, mySQL, HTML, CSS, mySQL, and project management via school to meet business needs at Kennesaw State University. 
