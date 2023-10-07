@@ -1,7 +1,8 @@
 Matthew Thomas Elledge\
 Computer Science Student and Intern \
 __[Github](https://github.com/mthyuu)__ - GitHub Homepage\
-__[Personal Webpage](https://matthewelledge.weebly.com/)__ - Past HS Engineering Work
+__[Personal Webpage](https://matthewelledge.weebly.com/)__ - Past HS Engineering Work\
+__[LinkedIn](https://www.linkedin.com/in/matthew-elledge-797a34227/)__ - LinkedIn Profile
 
 ## Mission Statement
 Determined Computer Science Student at Kennesaw State University with 1 1/2 years experience in programming. Experience and fluency in the use of Java and C#, AutoCad, AutoCad Inventor, and project organization to expand upon in the future.
