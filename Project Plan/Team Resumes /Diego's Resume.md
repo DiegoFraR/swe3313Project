@@ -16,6 +16,11 @@ Motivated software engineering student from Kennesaw State University with 2 yea
 * Pursuing my passion for software development through advanced courses in project management, coding courses, and understanding operating systems
 * Member of the President's List at Kennesaw State University since Spring 2022
 
+##### McEachern High School
+###### July 2017 - May 2021
+###### GPA: 4.1 
+
+
 ## Work Experience
 ### Freelance Software Engineer
 ###### August 2021 - Present
