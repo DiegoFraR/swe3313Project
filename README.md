@@ -9,4 +9,4 @@ We will create a e-commerce website which uses Java and Grails, along with JSON 
 -Diego's Resume: \
 -Matthew's Resume: \
 -David's Resume: \
--Eunsu's Resume: \
+-Eunsu's Resume: 
