@@ -22,5 +22,5 @@ Note that these responsibilities are subject to change.
 * Record presentations for each part of the project
 
 ### And Finally, Everyone
-* Record part of presentation
+* Record part of final presentation
 * Manage time and risk
