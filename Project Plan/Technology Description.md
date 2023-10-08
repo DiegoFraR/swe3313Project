@@ -13,7 +13,7 @@ of easy to learn syntax and a relatively flat learning curve compared to other f
 
 ## Storage Plan
 ### JSON
-We Selected JSON as our storage option because, compared to SQL, it is more flexible and our professor (Jeff Adkisson) will be teching JSON 
+We Selected JSON as our storage option because, compared to SQL, it is more flexible and our professor (Jeff Adkisson) will be teaching JSON 
 outside of class. This way, all of our group members know how the storage option functions, as well as learn a new way to implement storage. 
 
 ## Operating Environment
