@@ -11,10 +11,7 @@ We will create a e-commerce website which uses Java and Grails, along with JSON 
 * __[Eunsu's Resume](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Team%20Resumes%20/Eunsu's%20Resume.md)__
 
 ## Team Assignments
-* Diego's Responsibilities: 
-* Matthew's Responsibilities:
-* Eunsu's Responsibilites:
-* David's Responsibilities: 
+* __[Team Assignment File](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Team%20Assignments.md)__
 ## Technology Selection
 * __[Technology Description](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Technology%20Description.md)__
 
