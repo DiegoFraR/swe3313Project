@@ -2,7 +2,7 @@ David Lowe\
 Software Engineering Student \
 dlowe23@students.kennesaw.edu \
 __[Portfolio](https://github.com/davlowe)__ - GitHub Portfolio  
-__[LinkedIn](https://www.linkedin.com/in/dayvidlowe/)__ 
+__[LinkedIn](https://www.linkedin.com/in/dayvidlowe/)__ - LinkedIn Profile
 
 ## Mission Statement
 Software engineering student with one year of programming experience in Java who is motivated to better the lives of others through high quality software. 
