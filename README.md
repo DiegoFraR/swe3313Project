@@ -10,8 +10,8 @@ We will create a e-commerce website which uses Java and Grails, along with JSON 
 * __[David's Resume](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Team%20Resumes%20/David's%20Resume.md)__
 * __[Eunsu's Resume](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Team%20Resumes%20/Eunsu's%20Resume.md)__
 
-## Team Assignments
-* __[Team Assignment File](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Team%20Assignments.md)__
+## Team Assignment
+* __[Team Assignments](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Team%20Assignments.md)__
 ## Technology Selection
 * __[Technology Description](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Technology%20Description.md)__
 
