@@ -20,8 +20,11 @@ I am a Computer Science student with two years of experience in object-oriented 
 ##### Mckenney's Inc
 ###### January 2023 - August 2023
 ###### 
-* 
-* 
+*  Collaborated with infrastructure team to enhance printer security by 40% across printers located at multiple jobsite
+locations in Georgia such as Meta Data Center, CDC, and Georgia Aquarium.
+* Rapidly learned and used KACE and Addigy to asset track, image and deploy computer hardware and software for
+employees and project managers.
+* Supervised and managed networking and conference room equipment at various jobsites. 
 
 ## Work Experience
 ### 
