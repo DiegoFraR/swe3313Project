@@ -1,30 +1,33 @@
                         Eunsu You
-(404) 213-3358 • youeunsu@gmail.com • git/EunsuYou • in/EunsuYou
+Eunsu You
+Computer Science Student
+eyou1@students.kennesaw.edu
+Portfolio - GitHub Portfolio
+LinkedIn - LinkedIn Profile
 
-EDUCATION ____________________________________________________________________________________
-Kennesaw State University	Graduation: Dec 2024
-Bachelor of Science in Computer Science
+Mission Statement
 
-Relevant Coursework: Data Structures, Object Oriented Programming, Professional Programming Ethics
+I am a Computer Science student with two years of experience in object-oriented programming using Java, driven by a strong motivation to address challenges through the creation of high-quality software solutions
 
+Education
 
-SKILLS & INTERESTS_____________________________________________________________________
-Languages: Java, Python, Swift (Familiar), HTML/CSS
-Developer Tools & Frameworks: Django, IntelliJ, PyCharm, XCode
-Interests: Acrylic painting, Volunteering, and Hiking
+Bachelor of Science in Software Engineering
 
-EXPERIENCE______________________________________________________¬¬¬¬_______________________
-Mckenney’s Inc – Atlanta, GA	Jan 2023 – August 2023 
-Information Technology Specialist Intern
-●	Collaborated with infrastructure team to enhance printer security by 40% across printers located at multiple jobsite locations in Georgia such as Meta Data Center, CDC, and Georgia Aquarium.
-●	Rapidly learned and used KACE and Addigy to asset track, image and deploy computer hardware and software for employees and project managers.
-●	Supervised and managed networking and conference room equipment at various jobsites.
+Kennesaw State University
 
-PROJECTS________________________________________________________________________________
-Real Time Chat Application
-● Developed a real-time chat application using Django and integrated Django Channels for WebSocket functionality
-● Implemented WebSocket communication to enable instant messaging and real-time update for chat messages
+Expected Graduation: 2024
 
-ACTIVITIES______________________________________________________________________________________
-Society of Hispanic Professional Engineers (SHPE)					               February 2022-Present
-●	Participated in Lunch & Learn sessions, actively engaged in resume-building workshops, and attended recruitment-focused events to enhance professional development and networking
+Developed a real-time chat application using Django and integrated Django Channels for WebSocket functionality
+Implemented WebSocket communication to enable instant messaging and real-time update for chat messages
+
+Skills
+
+Teamwork
+Analytical Thinking
+Problem Solving
+Java
+Python
+Languages
+
+English (Fluent)
+Korean (Intermediate)
