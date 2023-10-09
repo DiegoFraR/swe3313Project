@@ -14,7 +14,7 @@ I am a Computer Science student with two years of experience in object-oriented 
 ###### Expected Graduation - 2024
 ###### GPA: 3.8
 * Developing crucial critical thinking skills to put to use in the dynamic field of software engineering
-* Expanding knowledge useful to software engineering via courses such as Calculus I and II, Discrete Structures for Computing, Linear Algebra I, Data Structures, Computer Organization & Architecture, and Technical Communciation
+* Expanding knowledge useful to software engineering via courses such as Calculus I and II, Discrete Mathematics, Data Structures, Computer Organization & Architecture, and Professional Practices & Ethics
 
 
 ##### Mckenney's Inc
