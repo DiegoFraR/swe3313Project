@@ -35,7 +35,7 @@ Determined Computer Science Student at Kennesaw State University with 1 1/2 year
 ## Skills
 * Project Leading
 * Team Management
-* Working in groups
+* Group Work
 * AutoCAD
 * AutoCAD Inventor
 * Java
