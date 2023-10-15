@@ -8,7 +8,7 @@ __[LinkedIn](https://www.linkedin.com/in/matthew-elledge-797a34227/)__ - LinkedI
 
 ## Mission Statement
 Determined Computer Science Student at Kennesaw State University with 1 1/2 years experience in programming. Experience and fluency in the use of Java and C#,
-AutoCad, AutoCad Inventor, and project organization. Seeking hands-on intern experience to further expand and develop skill.
+AutoCad, AutoCad Inventor, and project organization. Seeking hands-on internship experience to further expand and develop skill.
 
 ## Education
 
