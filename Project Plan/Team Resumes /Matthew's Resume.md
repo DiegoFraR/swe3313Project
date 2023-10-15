@@ -1,7 +1,7 @@
 Matthew Thomas Elledge\
 Computer Science Student and Intern \
 Personal Email - mtelledge14@gmail.com \
-School Email - melledg1@students.kennesaw.edu
+School Email - melledg1@students.kennesaw.edu \
 __[Github](https://github.com/mthyuu)__ - GitHub Homepage\
 __[Personal Webpage](https://matthewelledge.weebly.com/)__ - Past HS Engineering Work\
 __[LinkedIn](https://www.linkedin.com/in/matthew-elledge-797a34227/)__ - LinkedIn Profile
