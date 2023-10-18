@@ -21,3 +21,6 @@ We will create an e-commerce website which uses Java and Grails, along with JSON
 
 ## Project Plan Video Presentation
  * [Click here!](https://youtu.be/pDLQozICLKc?si=yTbijDfW7WJWGf6j) - YouTube
+
+## Requirements 
+* [Requirements Introduction](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Requirements%20Introduction.md)
