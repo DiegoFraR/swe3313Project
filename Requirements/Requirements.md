@@ -63,5 +63,14 @@
   - Items Sold
   - User who Purchased the Item
 # Future Versions 
-
+## Milestone: Add Inventory
+### Epic: Interface to add Inventory (T4-E7)
+#### Story: Administrators will have an interface (UI) to add inventory to the website. 
+* Priority: Low
+* Estimated Effort: TBD
+* Non-functional
+* Description: Administrators will have an interface (UI) to add inventory to the website which includes:
+  - A picture of the product.
+  - Price of the product.
+  - Description of the product.
 
