@@ -53,6 +53,15 @@
   - Phone Number
   - Shipping Speed
 
+## Milestone: Sales Report
+### Epic: Generate Sales Report (T4-E6)
+#### Story: Make a sales report to return to administrators. 
+* Priority: High
+* Estimated Effort: TBD
+* Functional
+* Description: Administrators will generate and receive a sales report which includes:
+  - Items Sold
+  - User who Purchased the Item
 # Future Versions 
 
 
