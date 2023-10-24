@@ -55,7 +55,7 @@
 
 ## Milestone: Sales Report
 ### Epic: Generate Sales Report (T4-E6)
-#### Story: Make a sales report to return to administrators. 
+#### Story: Make a sales report to return to administrators. (T4-S6)
 * Priority: High
 * Estimated Effort: TBD
 * Functional
