@@ -8,7 +8,7 @@ The link below will take you to our use-case diagram. This diagram shows how the
 * __[Use-case Diagram](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Use%20Case%20Diagram.png)__
 ### Decision Table
 The link below will take you to our decision table. This table shows the rules, conditions, and actions both users and administrators can perform. 
-* __[Decision Table](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Decision%20Table)__
+* __[Decision Table](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Decision%20Table.md)__
 
 
 
