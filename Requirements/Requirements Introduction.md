@@ -1,5 +1,5 @@
 # Requirements Introduction
-Welcome to the requirements section of our project. The requirements (linked below) will include the critical aspects of our project such as the different web pages required, a use-case diagram, and a decision table. 
+Our Online Rocket Ship project is a web-based application that is designed to offer an e-commerce platform to purchase rocket ships. This software requirements document outlines the specifics and expectations for the project. This document serves as a reference guide for all of our stakeholders which includes developers, testers, and clients to maintain a common understanding of the project's objectives and outcomes. 
 ## Requirements Document
 Following the link below, you will see all the requirements for our online e-commerce website. The requirements outline the specific web pages that will be created, 
 * __[Requirements](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Requirements.md)__
