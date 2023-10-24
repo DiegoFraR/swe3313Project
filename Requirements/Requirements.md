@@ -47,12 +47,11 @@
 * Priority: High
 * Estimated Effort: TBD
 * Functional
-* Description: Users will finalize the purchase of their rocket ship(s) on a page that gathers the following:
+* Description: Users will finalize the purchase of their rocket ship(s) on a page that gathers the following (and finalize the purchase):
   - Shipping Address
   - Credit Card Information
   - Phone Number
   - Shipping Speed
-and finalize the purchase. 
 
 # Future Versions 
 
