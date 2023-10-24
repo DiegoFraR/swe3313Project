@@ -1,13 +1,15 @@
 ###### Unique ID is in Parenthesis next to the names
+###### These Unique IDs are formatted by team name (T4) and denoted with an E for an epic and an S for a story. (Ex: T4-E1) 
+
 
 # Version 1
-## Milestone: Sign Up Page (1)
-### Epic: User Regisration
-#### Story: 
+## Milestone: Sign Up Page 
+### Epic: User Regisration (T4-E1)
+#### Story: Users will create an account. (T4-S1) 
 * Priority: High
-* Estimated Effort
+* Estimated Effort: 1 Day
 * Functional
-* Description: Users will have the option to make a new account with a unique username and password. The sign-up page will gather the following from the user:
+* Description: Users will make a new account with a unique username and password. The sign-up page will gather the following from the user:
   - First Name
   - Last Name
   - Email
@@ -15,4 +17,21 @@
   - Username
   - Password
 
+## Milestone: Login Page 
+### Epic: User Login (T4-E2)
+#### Story: Users will log into existing accounts they create. (T4-S2)
+* Priority: High 
+* Estimated Effort: 1 Day
+* Functional
+* Description: Users will log in with their username and password.
+
+## Milestone: Main Page (3)
+### Epic: Shopping Page (T4-E3)
+#### Story: Users will browse products. (T4-S3)
+* Priority: High
+* Estimated Effort: 3 Days
+* Functional
+* Description: Users will view IN-STOCK inventory and be able to select the rocket ships they want to purchase from this page. 
 # Future Versions 
+
+
