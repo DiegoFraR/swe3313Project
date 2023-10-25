@@ -56,6 +56,7 @@
   - Credit Card Information
   - Phone Number
   - Shipping Speed
+* The User will receive an email with a receipt which contains the total price, items purchased, and estimated delivery date. 
 
 ## Milestone: Sales Report
 ### Epic: Generate Sales Report (T4-E6)
