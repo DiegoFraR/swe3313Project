@@ -48,8 +48,8 @@
 ## Milestone: Checkout
 ### Epic: Checkout Page (T4-E5)
 #### Story: Users will finalize the purchase of their rocket ship(s). (T4-S5)
-* Priority: 2 days
-* Estimated Effort: TBD
+* Priority: High
+* Estimated Effort: 2 days
 * Functional
 * Description: Users will finalize the purchase of their rocket ship(s) on a page that gathers the following (and finalize the purchase):
   - Shipping Address
@@ -100,7 +100,7 @@
 ### Epic: More Pictures Per Rocket Ship (T4-E10)
 #### Story: Administrators will be able to add multiple pictures per rocket ship item on the store page. (T4-S10)
 * Priority: Low
-* Estimated Effort: 4 days
+* Estimated Effort: 3 days
 * Non-functional
 * Description: Administrators will be able to add more than one picture for each rocket ship item on the e-commerce website. 
 
