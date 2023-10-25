@@ -31,7 +31,11 @@
 * Priority: High
 * Estimated Effort: TBD
 * Functional
-* Description: Users will view IN-STOCK inventory and be able to select the rocket ships they want to purchase from this page.
+* Description: Users will view IN-STOCK inventory and be able to select the rocket ships they want to purchase from this page. Each rocket ship has the following information listed:
+  - Name
+  - Price
+  - Description of the rocket ship
+  - Picture
 
 ## Milestone: Basket
 ### Epic: Shopping Cart Page (T4-E4)
@@ -87,8 +91,15 @@
 ### Epic: Interface to add new Administrators (T4-E9)
 #### Story: Administrators will have an interface (UI) to add new administrators to the website (T4-S9)
 * Priority: Low
-* Estimated Effort
+* Estimated Effort: TBD
 * Non-functional
-* Description: Administrators will have an interface (UI) to add new administrators to the website from users who have registered. 
+* Description: Administrators will have an interface (UI) to add new administrators to the website from users who have registered.
 
+## Milestone: Update Main Page
+### Epic: More Pictures Per Rocket Ship (T4-E10)
+#### Story: Administrators will be able to add multiple pictures per rocket ship item on the store page. (T4-S10)
+* Priority: Low
+* Estimated Effort: TBD
+* Non-functional
+* Description: Administrators will be able to add more than one picture for each rocket ship item on the e-commerce website. 
 
