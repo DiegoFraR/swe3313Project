@@ -5,7 +5,7 @@ Following the link below, you will see all the requirements for our online e-com
 * __[Requirements](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Requirements.md)__
 ### Use Case Diagram
 The link below will take you to our use-case diagram. This diagram shows how the different users (people/objects) will interact with our system (e-commerce website). 
-* __[Use-case Diagram](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Use%20Case%20Diagram.png)__
+* __[Use-case Diagram](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/SWE%203313%20Use%20Case%20Diagram%20Project.png)__
 ### Decision Table
 The link below will take you to our decision table. This table shows the rules, conditions, and actions both users and administrators can perform. 
 * __[Decision Table](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Decision%20Table.md)__
