@@ -62,6 +62,14 @@
 * Description: Administrators will generate and receive a sales report which includes:
   - Items Sold
   - User who Purchased the Item
+
+## Milestone: Database
+### Epic: Make Database (T4-E7)
+#### Story: Make a Database to store products and users/administrators.
+* Priority: High
+* Estimated Effort: TBD
+* Functional
+* Description: Make a database that stores products, users, and administrators of the e-commerce website. This database interacts with the e-commerce site to add and remove users, administrators, and products when needed. 
 # Future Versions 
 ## Milestone: Add Inventory
 ### Epic: Interface to add Inventory (T4-E7)
