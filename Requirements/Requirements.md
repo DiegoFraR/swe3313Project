@@ -7,7 +7,7 @@
 ### Epic: User Regisration (T4-E1)
 #### Story: Users will create an account. (T4-S1) 
 * Priority: High
-* Estimated Effort: TBD
+* Estimated Effort: 1 day
 * Functional
 * Description: Users will make a new account with a unique username and password. The sign-up page will gather the following from the user:
   - First Name
@@ -21,7 +21,7 @@
 ### Epic: User Login (T4-E2)
 #### Story: Users will log into existing accounts they create. (T4-S2)
 * Priority: High 
-* Estimated Effort: TBD
+* Estimated Effort: 1 day
 * Functional
 * Description: Users will log in with their username and password.
 
@@ -29,7 +29,7 @@
 ### Epic: Shopping Page (T4-E3)
 #### Story: Users will browse products. (T4-S3)
 * Priority: High
-* Estimated Effort: TBD
+* Estimated Effort: 5 days
 * Functional
 * Description: Users will view IN-STOCK inventory and be able to select the rocket ships they want to purchase from this page. Users will also be able to search for rocket ships through a search bar. Each rocket ship has the following information listed:
   - Name
@@ -41,14 +41,14 @@
 ### Epic: Shopping Cart Page (T4-E4)
 #### Story: Users will be able to see a shopping cart with items they've selected. (T4-S4)
 * Priority: High
-* Estimated Effort: TBD
+* Estimated Effort: 3 days
 * Functional
 * Description: Users will see the items they have added to a shopping cart page. This page will include the items they've added, the individual prices of the items, and the total price for all the products, minus tax and shipping fees.
 
 ## Milestone: Checkout
 ### Epic: Checkout Page (T4-E5)
 #### Story: Users will finalize the purchase of their rocket ship(s). (T4-S5)
-* Priority: High
+* Priority: 2 days
 * Estimated Effort: TBD
 * Functional
 * Description: Users will finalize the purchase of their rocket ship(s) on a page that gathers the following (and finalize the purchase):
@@ -62,7 +62,7 @@
 ### Epic: Generate Sales Report (T4-E6)
 #### Story: Make a sales report to return to administrators. (T4-S6)
 * Priority: High
-* Estimated Effort: TBD
+* Estimated Effort: 3.5 days
 * Functional
 * Description: Administrators will generate and receive a sales report that includes:
   - Items Sold
@@ -72,7 +72,7 @@
 ### Epic: Make Database (T4-E7)
 #### Story: Make a Database to store products and users/administrators. (T4-S7) 
 * Priority: High
-* Estimated Effort: TBD
+* Estimated Effort: 5 days
 * Functional
 * Description: Make a database that stores products, users, and administrators of the e-commerce website. This database interacts with the e-commerce site to add and remove users, administrators, and products when needed.
 
@@ -81,7 +81,7 @@
 ### Epic: Interface to add Inventory (T4-E8)
 #### Story: Administrators will have an interface (UI) to add new inventory to the website. (T4-S8)
 * Priority: Low
-* Estimated Effort: TBD
+* Estimated Effort: 3 days
 * Non-functional
 * Description: Administrators will have an interface (UI) to add inventory to the website which includes:
   - A picture of the product.
@@ -92,7 +92,7 @@
 ### Epic: Interface to add new Administrators (T4-E9)
 #### Story: Administrators will have an interface (UI) to add new administrators to the website (T4-S9)
 * Priority: Low
-* Estimated Effort: TBD
+* Estimated Effort: 2.5 days
 * Non-functional
 * Description: Administrators will have an interface (UI) to add new administrators to the website from users who have registered.
 
@@ -100,7 +100,7 @@
 ### Epic: More Pictures Per Rocket Ship (T4-E10)
 #### Story: Administrators will be able to add multiple pictures per rocket ship item on the store page. (T4-S10)
 * Priority: Low
-* Estimated Effort: TBD
+* Estimated Effort: 4 days
 * Non-functional
 * Description: Administrators will be able to add more than one picture for each rocket ship item on the e-commerce website. 
 
