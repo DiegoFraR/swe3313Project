@@ -31,7 +31,7 @@
 * Priority: High
 * Estimated Effort: TBD
 * Functional
-* Description: Users will view IN-STOCK inventory and be able to select the rocket ships they want to purchase from this page. Each rocket ship has the following information listed:
+* Description: Users will view IN-STOCK inventory and be able to select the rocket ships they want to purchase from this page. Users will also be able to search for rocket ships through a search bar. Each rocket ship has the following information listed:
   - Name
   - Price
   - Description of the rocket ship
