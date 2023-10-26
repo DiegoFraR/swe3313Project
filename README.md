@@ -24,3 +24,4 @@ We will create an e-commerce website which uses Java and Grails, along with JSON
 
 ## Requirements 
 * [Requirements Introduction](https://github.com/DiegoFraR/swe3313Project/blob/main/Requirements/Requirements%20Introduction.md)
+* [Requirements Video Presentation](https://youtu.be/ZLkadaNHvmA)
