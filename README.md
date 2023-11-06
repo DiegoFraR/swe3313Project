@@ -27,4 +27,5 @@ We will create an e-commerce website which uses Java and Grails, along with JSON
 * [Requirements Video Presentation](https://youtu.be/ZLkadaNHvmA)
 
 ## User Interface Design
-
+* __[User Interface Design Information](https://github.com/DiegoFraR/swe3313Project/blob/main/User%20Interface%20Design/User%20Interface%20Design%20Information.md)__
+* __[User Interface Design Video Presentation](Insert Link Here)__
