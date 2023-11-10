@@ -5,4 +5,4 @@ Our objective for the user interface design is to provide a clean, simple, and e
 * __[Marvel](https://marvelapp.com/prototype/103e960b/screen/93133144)__ - Mock-Up Design
   
 ## User Interface Design Video Presentation
-* __[Insert Link Here]()__ 
+* __[YouTube link](https://youtu.be/8nuNpZcxY6g)__ 
