@@ -2,7 +2,7 @@
 
 Welcome to Team 4's Project Repository! This is the location of all artifacts, presentations, documentation, and source code for our SWE3313 Project.
 
-We will create an e-commerce website which uses Java and Grails, along with JSON to sell unique rocket-ships.
+We will create an e-commerce website which uses Java and Spring, along with JSON to sell unique rocket-ships.
 
 ## Meet Our Team
 * __[Diego's Resume](https://github.com/DiegoFraR/swe3313Project/blob/main/Project%20Plan/Team%20Resumes%20/Diego's%20Resume.md)__ 
@@ -29,3 +29,7 @@ We will create an e-commerce website which uses Java and Grails, along with JSON
 ## User Interface Design
 * __[User Interface Design Information](https://github.com/DiegoFraR/swe3313Project/blob/main/User%20Interface%20Design/User%20Interface%20Design%20Information.md)__
 * __[User Interface Design Video Presentation](https://youtu.be/8nuNpZcxY6g)__
+
+## Technical Design
+*__[Technical Design Information]()__
+*__[Technical Design Video Presentation()__
