@@ -1,16 +1,19 @@
 # Technical Design Introduction
 Welcome to our technical design for our E-commerce Rocket Ship website. In this folder of our GitHub, you will find the implementation language, implementation framework, entity-relationship diagram, database seed data, data storage plan, and coding style for our program. 
 ## Implementation Language
-* In the document linked below, you find the implementation language chosen, Java, and why we chose this language.
+* In the document linked below, you will find the implementation language chosen, Java, and why we chose to use this language. 
 * __[Implementation Language](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Implementation%20Language.md)__
 
 ## Implementation Framework 
+* In the document linked below, you will find the implementation framework chosen, Spring, and why we chose to use this framework. 
 * __[Implementation Framework](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Implementation%20Framework.md)__
 
 ## Entity-Relationship Diagram
+* In the document linked below, you will find our entity-relationship diagram. The entity-relationship diagram depicts how the different objects interact with the database and vise versa. 
 * __[Entity-Relationship Diagram](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Entity-Relationship%20Diagram.md)__
 
 ## Database Seed Data 
+* This document shows what seed data we will use 
 * __[Database Seed Data](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Database%20Seed%20Data.md)__
 
 ## Data Storage Plan
