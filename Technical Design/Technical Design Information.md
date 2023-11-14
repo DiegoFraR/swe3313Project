@@ -7,7 +7,7 @@ Welcome to our technical design for our E-commerce Rocket Ship website. In this 
 * __[Implementation Framework]()__
 
 ## Entity-Relationship Diagram
-* __[Entity-Relationship Diagram()__
+* __[Entity-Relationship Diagram]()__
 
 ## Database Seed Data 
 * __[Database Seed Data]()__
