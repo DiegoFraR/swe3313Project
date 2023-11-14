@@ -3,3 +3,17 @@ Welcome to our technical design for our E-commerce Rocket Ship website. In this 
 ## Implementation Language
 * In the document linked below, you find the implementation language chosen, Java, and why we chose this language.
 * __[Implementation Language](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Implementation%20Language.md)__
+## Implementation Framework 
+* __[Implementation Framework]()__
+
+## Entity-Relationship Diagram
+* __[Entity-Relationship Diagram()__
+
+## Database Seed Data 
+* __[Database Seed Data]()__
+
+## Data Storage Plan
+* __[Data Storage Plan]()__
+
+## Coding Style
+* __[Coding Style]()__
