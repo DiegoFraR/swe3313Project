@@ -31,5 +31,5 @@ We will create an e-commerce website which uses Java and Spring, along with JSON
 * __[User Interface Design Video Presentation](https://youtu.be/8nuNpZcxY6g)__
 
 ## Technical Design
-*__[Technical Design Information]()__
+*__[Technical Design Information](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Technical%20Design%20Information.md)__
 *__[Technical Design Video Presentation()__
