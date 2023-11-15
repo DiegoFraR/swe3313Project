@@ -9,5 +9,5 @@
 * Java is reliable and highly agile.
 * Using Java allows us to use IntelliJ's IDEA Ultimate IDE to speed up the debugging process.
 
-This is a location to find multiple varying kinds of tutorials, from the basics to creating GUIS, for learning Java:
- ### [Tutorials Here](https://docs.oracle.com/javase/tutorial/)
+#### This is a location to find multiple varying kinds of tutorials, from the basics to creating GUIS, for learning Java:
+- [Tutorials Here](https://docs.oracle.com/javase/tutorial/)
