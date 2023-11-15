@@ -8,3 +8,4 @@
 * We will be using the Jackson library to convert JSON strings and POJOs (Plain Old Java Objects).
 * Allows for future implementation for data formats such as CSV, YML, and XML.
 * Requires the least overhead for Streaming API
+* __[Jackson Tutorial](https://www.baeldung.com/jackson)__
