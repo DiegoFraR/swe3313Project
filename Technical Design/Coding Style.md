@@ -6,6 +6,6 @@
 
 ## Our Additions to the Guide
 * On top of this guide, we have a few of our own individual parameters surrounding certain topics so that we ensure the project flows smoothly, such as :
-** Project Access and Management\
-** Commenting to show connection between database, code, and website\
-** 
+  Project Access and Management\
+  Commenting to show connection between database, code, and website\
+  
