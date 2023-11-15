@@ -1,6 +1,6 @@
 ## Implementation Language Info
 ### Implementation Language: Java
-- [Java's Official Documentation](https://docs.oracle.com/en/java/javase/17/)
+- ####[Java's Official Documentation](https://docs.oracle.com/en/java/javase/17/)
 
 
 * We decided to use Java as our entire development team is accustomed to using Java.
