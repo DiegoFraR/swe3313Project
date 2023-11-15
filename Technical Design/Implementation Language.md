@@ -11,4 +11,4 @@
 
 This is a location to find multiple varying kinds of tutorials, from the basics to creating GUIS, for learning Java: \
  
- ### [TUTORIALS](https://docs.oracle.com/javase/tutorial/)
+ ### [Tutorials Here](https://docs.oracle.com/javase/tutorial/)
