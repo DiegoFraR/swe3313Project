@@ -3,7 +3,8 @@
 * Language independent
 * Lightweight data-interchange format
 * We selected JSON as our storage plan for our e-commerce website.
-* All the objects will be stored within a single JSON document. 
+* All the objects will be stored within a single JSON document.
+* __[JSON Information](https://www.json.org/json-en.html)___
 ### Jackson
 * We will be using the Jackson library to convert JSON strings and POJOs (Plain Old Java Objects).
 * Allows for future implementation for data formats such as CSV, YML, and XML.
