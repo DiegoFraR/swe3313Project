@@ -4,7 +4,7 @@ We selected Java as our implementation Language. We selected Java because all th
 Java provides us one less obstacle to learn as we will be learning how to use Grails and JSON (more on this later). 
 
 ## Framework
-### Spring (Grails Sucks)
+### Spring 
 We selected Spring as our framework because we are building a web-based java solution for our project. Spring provides a simple, consistent 
 and encourages rapid development. Spring provides us a streamlined web development process which allows us to spend less time configuring 
 and more time coding the application itself. Spring is also coded in Java, which means our team has to learn one less language. 
