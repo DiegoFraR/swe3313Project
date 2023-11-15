@@ -16,6 +16,6 @@
   - Also storing this here is great for being past the project and the class itself because it is accessible and readable to any future employer, or anyone interested in scouting our skills
 
  ### Commenting
- - This commenting will be brief but informative to ensure the reader is able to follow along the programmer's thought process while it was being written— what each line of code is doing
+ - Our commenting will be brief but informative to ensure the reader is able to follow along the programmer's thought process while it was being written— what each line of code is doing
  - The comments will also follow our naming scheme that is shown throughout our Entity Relationship Diagram (ERD) in order to reference pieces that connect to each other
  - Our commenting style and names will allow us to easily show connections between our JSON database, Spring Framework for our website, as well as our backend code in Java
