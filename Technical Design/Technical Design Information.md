@@ -18,6 +18,7 @@ Welcome to our technical design for our E-commerce Rocket Ship website. In this 
 
 ## Example Data
 * In the document linked below, you will find example data referenced in the entity relationship diagram.
+* __[Example Data](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/ExampleData.md)__
 
   
 ## Database Seed Data 
