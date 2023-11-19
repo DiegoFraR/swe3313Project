@@ -10,7 +10,7 @@
   - Specific Commenting
   
 ### Project Access and Management
-- For this, we're storing all of our project information in a Github Repository to ensure everything is in the accessible anywhere and in the same place.
+- For this, we're storing all of our project information in a Github Repository to ensure everything is accessible anywhere and in the same place.
 - When posting large updates to the repository or writing overtop of old information, check with at least one other group member to have them read over your changes to prevent unnecessary mistakes.
 - This allows great future access while still on the project: looking into this repository for artifacts and information to see how to best make changes or debug any part of the project with little to no issue.
   - Also storing this here is great for being past the project and the class itself because it is accessible and readable to any future employer, or anyone interested in scouting our skills.
