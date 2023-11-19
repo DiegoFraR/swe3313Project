@@ -1,3 +1,4 @@
 * The Entity Relationship diagram depicts how the different "objects" interact with each other.
   
-![image](https://github.com/DiegoFraR/swe3313Project/assets/136942042/66528265-4885-4dbd-ab90-f4bf6a7e496a)
+![Image](https://github.com/DiegoFraR/swe3313Project/assets/136942042/7a4aa74e-e196-4972-8c17-7b8a670571dc)
+
