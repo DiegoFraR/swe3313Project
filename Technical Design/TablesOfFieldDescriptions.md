@@ -9,7 +9,8 @@
 <img width="700" alt="Screenshot 2023-11-19 at 11 39 35 AM" src="https://github.com/DiegoFraR/swe3313Project/assets/145714498/d17512ea-c0d9-437e-923a-39644f725ad8">
 
 ### Shipping Type and Sales Report Entities
-<img width="747" alt="Screenshot 2023-11-19 at 11 39 55 AM" src="https://github.com/DiegoFraR/swe3313Project/assets/145714498/dc8a2b81-367b-459f-a128-cc26701b2f21">
+<img width="752" alt="Screenshot 2023-11-19 at 1 35 24 PM" src="https://github.com/DiegoFraR/swe3313Project/assets/145714498/5d6f8181-f8b1-4ada-8455-ef7f9e2a889e">
+
 
 ### Administrator Entity
 <img width="701" alt="Screenshot 2023-11-19 at 11 40 23 AM" src="https://github.com/DiegoFraR/swe3313Project/assets/145714498/656809e7-7b6a-444e-bf2e-166103e4502b">
