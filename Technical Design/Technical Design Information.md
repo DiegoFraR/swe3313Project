@@ -12,6 +12,9 @@ Welcome to our technical design for our E-commerce Rocket Ship website. In this 
 * In the document linked below, you will find our entity-relationship diagram. The entity-relationship diagram depicts how the different objects interact with the database and vise versa. 
 * __[Entity-Relationship Diagram](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Entity-Relationship%20Diagram.md)__
 
+## Tables of Field Descriptions
+* In the document linked below, you will find tables of field descriptions for each entity in the entity-relationship diagram.
+* 
 ## Database Seed Data 
 * This document shows what seed data we will use 
 * __[Database Seed Data](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Database%20Seed%20Data.md)__
