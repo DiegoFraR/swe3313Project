@@ -14,7 +14,8 @@ Welcome to our technical design for our E-commerce Rocket Ship website. In this 
 
 ## Tables of Field Descriptions
 * In the document linked below, you will find tables of field descriptions for each entity in the entity-relationship diagram.
-* 
+* __[Table of Field Descriptions](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/TablesOfFieldDescriptions.md)__
+  
 ## Database Seed Data 
 * This document shows what seed data we will use 
 * __[Database Seed Data](https://github.com/DiegoFraR/swe3313Project/blob/main/Technical%20Design/Database%20Seed%20Data.md)__
