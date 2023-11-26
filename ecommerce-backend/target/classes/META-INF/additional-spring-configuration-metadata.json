@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "encryption.salt.rounds",
+      "type": "java.lang.String",
+      "description": "Description for encryption.salt.rounds."
+  }
+] }
