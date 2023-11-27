@@ -15,7 +15,6 @@ public class ShippingTypes {
     @Column
     private String description;
 
-
     //Getters
     public long getShippingTypeID() {
         return id;

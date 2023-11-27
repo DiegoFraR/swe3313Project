@@ -6,5 +6,20 @@
 </head>
 <body>
 
+
+<h1>Hello</h1>
+<div class="order-container">
+    <div class="order-card" th:each="order: ${orders}">
+        <!--<img class="product-image" th:src="${product.imageUrl}" alt="Product Image">-->
+        <h3 th:text="${order.orderID}"></h3>
+        <p th:text="${order.customerID}"></p>
+        <p th:text="${order.productID}"></p>
+        <p th:text="${order.orderDate}"></p>
+        <p th:text="${order.shippingTypeID}"></p>
+        <!-- Add more details if u want-->
+    </div>
+</div>
+
+
 </body>
 </html>

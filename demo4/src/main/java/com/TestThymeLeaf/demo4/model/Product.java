@@ -1,12 +1,20 @@
 package com.TestThymeLeaf.demo4.model;
 
 import jakarta.persistence.*;
+import jakarta.transaction.Transactional;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import javax.swing.*;
 import java.awt.*;
 import java.math.BigInteger;
+import java.util.List;
 
 @Entity
+@Transactional
+@Data
+@NoArgsConstructor
+@Table(name = "Product")
 public class Product {
 
     //Values
@@ -21,6 +29,9 @@ public class Product {
     private BigInteger price;
     @Column
     private Boolean available = true;
+/*
+    @OneToOne(cascade = CascadeType.ALL)
+    private Order orders;*/
 
     //Getters & Setters
 

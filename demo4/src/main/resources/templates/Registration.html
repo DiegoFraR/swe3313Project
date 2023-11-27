@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration</title>
+</head>
+<body>
+    <h1>Please Register Below</h1>
+
+    <form th:object ="${CustomerForm}" th:action ="register" th:method="post">
+
+        <label for="firstName">First Name</label> <br>
+        <input type ="text" th:field="*{firstName}"> <br>
+
+        <label for="lastName">Last Name</label> <br>
+        <input type ="text" th:field="*{lastName}"> <br>
+
+        <label for="email">Email</label> <br>
+        <input type ="email" th:field="*{email}"> <br>
+
+        <label for="phoneNumber">Phone Number</label> <br>
+        <input type ="text" th:field="*{phoneNumber}"> <br>
+
+        <label for="username">Username</label> <br>
+        <input type ="text" th:field="*{username}"> <br>
+
+        <label for="password">Password</label> <br>
+        <input type ="password" th:field="*{password}"> <br>
+
+        <label for="addressLine">Address</label> <br>
+        <input type ="text" th:field="*{addressLine}"> <br>
+
+        <label for="state">State</label> <br>
+        <input type ="text" th:field="*{state}"> <br>
+
+        <label for="country">Country</label> <br>
+        <input type ="text" th:field="*{country}"> <br>
+
+        <label for="zipCode">ZIP Code</label> <br>
+        <input type ="text" th:field="*{zipCode}"> <br>
+
+        <button type = "submit">Register</button>
+    </form>
+
+    <br>
+    <h1 th:text = "${message}"></h1>
+</body>
+</html>
