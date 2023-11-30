@@ -1,6 +1,9 @@
 # Implementation
 Welcome to the final Implementation of our project— our e-commerce website that sells rocketships. This implementation would create users new users when they'd like to register, or allow current ones to log in, browse the page of our rockets, add them to a shopping cart for purchase, and allow them to order the rockets— many if they'd like.
 
+Front-End Developers: David Lowe & Eunsu You
+Back-End Developers: Matthew Elledge & Diego Frausto Ramirez
+
 ## Objectives
 
 The project had many objectives, ranging from creating users to printing all orders into a table. Unfortunately, the implementation we were unable to complete the, just did not have enough knowledge or time to properly get certain aspects and objectives implemented into the working software. On the bright side, some of the more key aspects we completed, and are accessible and workable on the website when running.
