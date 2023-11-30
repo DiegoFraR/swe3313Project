@@ -13,11 +13,11 @@ The project had many objectives, ranging from creating users to printing all ord
 * Prevent the creation of a user that already exists in the database
 * Log the user in to the website
 * Display the products along with their pertinent information, along with their availability status and working image
-* Get a working, yet empty order page with all of its pertinent information— for the sales report
+* Get a working, yet empty order page with all of its pertinent information in the database— for the sales report
 
 ### Uncomplete Objectives
 * Keep user logins persistent across the website
-* Once the program shuts down, the database resets and the users have to reregister
+* Once the program shuts down, the database resets and the manually created users have to reregister
 * Complete orders and add products to the user's shopping cart— this prevents any checking of order data
 * Create new admins at the disposal of the seed admins
 * Print a sales report
