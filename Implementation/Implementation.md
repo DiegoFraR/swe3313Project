@@ -23,7 +23,7 @@ The project had many objectives, ranging from creating users to printing all ord
 * Print a sales report
 
 ## Challenges/Issues
-This project was very difficult, in fact the hardest that I'm sure all of us would agree on, at the very least our two backend developers would agree. At the day of submission, we've likely put 35+ hours into this project, staying late on the optional days, working over break on the project to get a headstart, as well as on top of other course work, putting several hours in each day to ensure the project works smoothly.
+This project was very difficult, in fact one of the hardest, of which I'm sure all of us would agree on. At the very least our two backend developers would agree. At the day of submission, we've likely put 35+ hours into this project, staying late on the optional days, working over break on the project to get a headstart, as well as on top of other course work, putting several hours in each day to ensure the project works smoothly.
 
 For our backend, we had never worked with Spring before, and sparsely with SQL. This created some major challenges for us. We had to attempt at learning Spring in a very rapid timeframe in order to get the project working, and when we came in contact with issues— of which we had a ton— we really had to dig deep and search through our code to hope we could find it. Not only this, but we also struggled at the beginning working with solely JSON for several days, before switching to SQL which turned out to be the much better decision. Lesson learned there.
 
