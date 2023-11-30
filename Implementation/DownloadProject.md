@@ -3,4 +3,7 @@
 To download our project from GitHub, go to the __[Project Repository](https://github.com/DiegoFraR/swe3313Project)__ and click the green __Code__ button located on the top left of the menu in the repository. From there, click __Download Zip__, which will download the entire repository onto your machine. 
 ![Image](https://github.com/DiegoFraR/swe3313Project/blob/main/Implementation/Screenshot%202023-11-30%20at%203.15.59%20PM.png)
 Once you open the zip folder, click on the __Implementation__ folder, and you should see a folder called __demo4__. 
-![Image]
+![Image](https://github.com/DiegoFraR/swe3313Project/blob/main/Implementation/Screenshot%202023-11-30%20at%203.23.22%20PM.png)
+![Image](https://github.com/DiegoFraR/swe3313Project/blob/main/Implementation/Screenshot%202023-11-30%20at%203.23.43%20PM.png)
+## To Run the Project: Go to
+* __[Run Project](https://github.com/DiegoFraR/swe3313Project/blob/main/Implementation/RunProject.md)__
