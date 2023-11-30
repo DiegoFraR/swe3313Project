@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - Rocket Ships</title>
+  <style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav {
+        background-color: #fff; /* White background */
+        color: #000; /* Black text */
+        padding: 10px;
+        text-align: center;
+        width: 100%;
+    }
+
+    nav a {
+        color: #000; /* Black text for navigation links */
+        text-decoration: none;
+        padding: 10px;
+        margin: 0 10px;
+        cursor: pointer;
+    }
+
+    nav a:hover {
+        text-decoration: underline;
+    }
+
+    .card-container {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+
+    .card {
+        width: 300px;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin: 0 10px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    h2 {
+        text-align: center;
+        color: #333;
+    }
+
+    .input-group {
+        margin-bottom: 15px;
+    }
+
+    label {
+        font-size: 14px;
+        margin-bottom: 8px;
+        color: #555;
+    }
+
+    input {
+        width: 100%;
+        padding: 8px;
+        box-sizing: border-box;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    button {
+        width: 100%;
+        background-color: #47525E;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+
+    button:hover {
+        background-color: #45a049;
+    }
+
+    .register-button {
+        width: 50%;
+        background-color: #47525E;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 30px auto 0;
+        display: block;
+    }
+
+    .register-button:hover {
+        background-color: #3E4651;
+    }
+
+    .register-title {
+        text-align: center;
+        color: #333;
+    }
+
+    .register-description {
+        font-size: 14px;
+        color: #555;
+        text-align: center;
+        margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a th:href="@{/}">Home</a>
+  <a th:href="@{/products}">Rocket Ships</a>
+  <a th:href="@{/cart}">Shopping Cart</a>
+  <a th:href="@{/aboutus}">About Us</a>
+</nav>
+
+<header>
+  <h1>About Us</h1>
+</header>
+
+<section id="aboutus">
+  <p>Welcome to Rocket Ships! We strive to provide the highest quality aircraft to our customers.</p>
+  <p>We "launched" our mission to deliver the safest, highest quality aircraft in 2023.</p>
+</section>
+
+<footer>
+  <p>&copy; 2023 Rocket Ships. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
