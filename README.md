@@ -35,5 +35,5 @@ We will create an e-commerce website which uses Java and Spring, along with JSON
 * __[Technical Design Presentation](https://youtu.be/YHNBi0AYN0w)__
 
 ## Implementation - Final Project
-* __[Final Implementation](https://github.com/DiegoFraR/swe3313Project/blob/main/Implementation/markdown.md)__
+* __[Final Implementation](https://github.com/DiegoFraR/swe3313Project/blob/main/Implementation/Implementation.md)__
 * __[Presentation]()__
